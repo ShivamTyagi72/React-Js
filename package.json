@@ -1,0 +1,21 @@
+{
+  "name": "react-js",
+  "version": "1.0.0",
+  "description": "This is React-js by Shivam Tyagi",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ShivamTyagi72/React-js"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Shivam Tyagi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
